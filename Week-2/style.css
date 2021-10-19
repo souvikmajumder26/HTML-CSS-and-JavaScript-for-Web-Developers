@@ -81,6 +81,9 @@ h1 {
         margin-left: 0px;
         width: 94%;
     }
+    .third {
+        margin-right: -20px;
+    }
 }
 
 /* -------------- Mobile view -------------- */

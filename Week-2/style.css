@@ -91,7 +91,7 @@ h1 {
         margin-bottom: 10px;
     }
     .all {
-        margin-left: 0px;
+        margin-left: -10px;
         float: left;
         width: 100%;
     }

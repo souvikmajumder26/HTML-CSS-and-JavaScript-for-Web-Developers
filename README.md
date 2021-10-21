@@ -3,7 +3,7 @@ Coursera Course: <a href="https://www.coursera.org/learn/html-css-javascript-for
 
 <a href="https://github.com/jhu-ep-coursera/fullstack-course4">Complete Original Course Content</a>
 
-# ASSIGNMENTS here :
+# ASSIGNMENTS here -
 
 ## Week-1
 > <a href="https://github.com/souvikmajumder26/HTML-CSS-and-JavaScript-for-Web-Developers/tree/main/Week-1#readme" target="_blank">Only Quizz</a>

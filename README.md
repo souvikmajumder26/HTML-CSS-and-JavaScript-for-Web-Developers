@@ -1,5 +1,8 @@
 # HTML-CSS-and-JavaScript-for-Web-Developers
-Coursera Course: https://www.coursera.org/learn/html-css-javascript-for-web-developers/
+Coursera Course: <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers/">HTML, CSS, and Javascript for Web Developers</a>
+<a href="https://github.com/jhu-ep-coursera/fullstack-course4">Complete Original Course Content</a>
+
+# ASSIGNMENTS here :
 
 ## Week-1
 > <a href="https://github.com/souvikmajumder26/HTML-CSS-and-JavaScript-for-Web-Developers/tree/main/Week-1#readme" target="_blank">Only Quizz</a>

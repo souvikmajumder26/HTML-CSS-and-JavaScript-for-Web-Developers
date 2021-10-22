@@ -1,7 +1,7 @@
 # HTML-CSS-and-JavaScript-for-Web-Developers
 Coursera Course: <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers/">HTML, CSS, and Javascript for Web Developers</a> from Johns Hopkins University by Yaakov Chaikin
 
-<a href="https://github.com/jhu-ep-coursera/fullstack-course4">Complete Original Course Content</a>
+<a href="https://github.com/jhu-ep-coursera/fullstack-course4">Complete Original Course Content</a> GitHub
 
 # ASSIGNMENTS here -
 

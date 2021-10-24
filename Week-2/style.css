@@ -1,6 +1,4 @@
 * {
-    margin: 10px;
-    padding: 0;
     box-sizing: border-box;
     font-family:'Courier New', Courier, monospace;
 }
@@ -13,99 +11,160 @@ h1 {
     font-size: 50px;
 }
 
-.heading {
-    position: relative;
-    top: -1px;
-    right: -1px;
-    overflow: none;                 /* overflow: hidden = if content doesn't fit within the window then it's hidden and scrollable; : none = if content doesn't fit within the window then its not shown */
-    text-align: center;
-    border: 4px solid black;
-    width: 130px;
-    height: 40px;
-    padding: 2px;
-    float: right;
-    margin-right: -2%;
-    margin-top: 0.5%;
-    font-weight: bold;
-    font-size: 24px;
+p {    
+    width: 90%;
+    margin-right: auto;           /* to center */
+    margin-left: auto;            /* to center */
+    color: black;
 }
 
-.first {
-    background-color: #ffb6c1;
+/* Simple Responsive Framework. */
+.row {
+    width: 100%;
 }
-.second {
-    background-color: #FF0000;
+
+.caption {
+    position: relative;
+    float: right;
+    border: 4px solid black;
+    width: 30%;
+    margin-top: 0;
+    margin-right: 5%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+.caption-first {
+    background-color: yellow;
+}
+.caption-second {
+    width: 50%;
+    background-color: red;
     color: white;
-    width: 260px;
 }
-.third {
-    background-color: #FFFF00;
+.caption-third {
+    background-color: violet;
 }
 
 .text {
     border: 5px solid black;
-    width: 100%;
-    height: auto;
-    margin: 2.5%;
+    padding: 3%;
+    padding-top: 65px;
+    text-align: justify;
     color: black;
     font-weight: bold;
     font-size: 16px;
-    padding: 3%;
-    padding-top: 50px;
     background-color: rgba(0, 0, 0, 0.3);
 }
 
-/* -------------- Desktop view -------------- */
-
-@media screen and (min-width: 992px) {
-    h1 {
-        margin-top: 35px;
-        margin-bottom: 35px;
-    }
-    .all {
+/********** Desktop view only **********/
+@media (min-width: 992px) {
+    /********** col = column; lg = large **********/
+    /********** only defining lg classes in case of large devices, so the md classes' definition do not even exist in this screen range **********/
+    .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
         float: left;
-        width: 31%;
-        position: relative;
+        /* border: 1px solid green; */
     }
-}
-
-/* -------------- Tablet view -------------- */
-
-@media screen and (min-width: 768px) and (max-width: 991px) {
-    h1 {
-        margin-top: 25px;
-        margin-bottom: 20px;
+    .col-lg-1 {           /* there will be 12 boxes in the 12-column-grid each with 8.33% width */
+        width: 8.33%;
     }
-    .all {
-        float: left;
-        width: 46%;
-        position: relative;
+    .col-lg-2 {           /* there will be 6 boxes in the 12-column-grid each with 16.66% width */
+        width: 16.66%;
     }
-    .box3 {
-        margin-left: 0px;
-        width: 94%;
+    .col-lg-3 {           /* there will be 4 boxes in the 12-column-grid each with 25% width */
+        width: 25%;
     }
-    .third {
-        top: -3px;
-        right: -3px;
+    .col-lg-4 {           /* there will be 3 boxes in the 12-column-grid each with 33.33% width */
+        width: 33.33%;
     }
-}
-
-/* -------------- Mobile view -------------- */
-
-@media screen and (max-width: 767px) {
-    h1 {
-        margin-top: 25px;
-        margin-bottom: 10px;
+    .col-lg-5 {           /* THESE ARE NOT TO BE APPLIED SIMILARLY TO ALL DIVs */
+        width: 41.66%;
     }
-    .all {
-        margin-left: -10px;
-        float: left;
+    .col-lg-6 {           /* there will be 2 boxes in the 12-column-grid each with 50% width */
+        width: 50%;
+    }
+    .col-lg-7 {           /* THESE ARE NOT TO BE APPLIED SIMILARLY TO ALL DIVs */
+        width: 58.33%;
+    }
+    .col-lg-8 {           /* THESE ARE NOT TO BE APPLIED SIMILARLY TO ALL DIVs */
+        width: 66.66%;
+    }
+    .col-lg-9 {           /* THESE ARE NOT TO BE APPLIED SIMILARLY TO ALL DIVs */
+        width: 74.99%;
+    }
+    .col-lg-10 {           /* THESE ARE NOT TO BE APPLIED SIMILARLY TO ALL DIVs */
+        width: 83.33%;
+    }
+    .col-lg-11 {           /* THESE ARE NOT TO BE APPLIED SIMILARLY TO ALL DIVs */
+        width: 91.66%;
+    }
+    .col-lg-12 {           /* there will be 1 boxes in the 12-column-grid each with 100% width */
         width: 100%;
-        position: relative;
     }
-    .heading {
-        top: -1.5px;
-        right: -1.5px;
+
+    .caption {
+        margin-top: 17px;
+    }
+    .caption-second {
+        width: 65%;
     }
 }
+
+/********** Tablet view only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+    /********** col = column; md = medium **********/
+    /********** only defining md classes in case of medium devices, so the lg classes' definition do not even exist in this screen range **********/
+    .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+        float: left;
+        /* border: 1px solid green; */
+    }
+    .col-md-1 {
+        width: 8.33%;
+    }
+    .col-md-2 {
+        width: 16.66%;
+    }
+    .col-md-3 {
+        width: 25%;
+    }
+    .col-md-4 {
+        width: 33.33%;
+    }
+    .col-md-5 {
+        width: 41.66%;
+    }
+    .col-md-6 {
+        width: 50%;
+    }
+    .col-md-7 {
+        width: 58.33%;
+    }
+    .col-md-8 {
+        width: 66.66%;
+    }
+    .col-md-9 {
+        width: 74.99%;
+    }
+    .col-md-10 {
+        width: 83.33%;
+    }
+    .col-md-11 {
+        width: 91.66%;
+    }
+    .col-md-12 {
+        width: 100%;
+    }
+
+    .caption {
+        margin-top: 17px;
+    }
+    .caption-second {
+        width: 65%;
+    }
+}
+
+/********** Mobile view **********/
+/* min-width: 0px and max-width: 767px */
+/* The base style will be applied automatically where each div will act as block level elements as there is no 'float' defined */

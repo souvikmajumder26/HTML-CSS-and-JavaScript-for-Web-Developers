@@ -1,0 +1,111 @@
+* {
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+    margin-top: 32px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+
+.heading {
+    position: relative;
+    top: -1px;
+    right: -1px;
+    overflow: none;                 /* overflow: hidden = if content doesn't fit within the window then it's hidden and scrollable; : none = if content doesn't fit within the window then its not shown */
+    text-align: center;
+    border: 4px solid black;
+    width: 130px;
+    height: 40px;
+    padding: 2px;
+    float: right;
+    margin-right: -2%;
+    margin-top: 0.5%;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.first {
+    background-color: #ffb6c1;
+}
+.second {
+    background-color: #FF0000;
+    color: white;
+    width: 260px;
+}
+.third {
+    background-color: #FFFF00;
+}
+
+.text {
+    border: 5px solid black;
+    width: 100%;
+    height: auto;
+    margin: 2.5%;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 3%;
+    padding-top: 50px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* -------------- Desktop view -------------- */
+
+@media screen and (min-width: 992px) {
+    h1 {
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+    .all {
+        float: left;
+        width: 31%;
+        position: relative;
+    }
+}
+
+/* -------------- Tablet view -------------- */
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    h1 {
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+    .all {
+        float: left;
+        width: 46%;
+        position: relative;
+    }
+    .box3 {
+        margin-left: 0px;
+        width: 94%;
+    }
+    .third {
+        top: -3px;
+        right: -3px;
+    }
+}
+
+/* -------------- Mobile view -------------- */
+
+@media screen and (max-width: 767px) {
+    h1 {
+        margin-top: 25px;
+        margin-bottom: 10px;
+    }
+    .all {
+        margin-left: -10px;
+        float: left;
+        width: 100%;
+        position: relative;
+    }
+    .heading {
+        top: -1.5px;
+        right: -1.5px;
+    }
+}

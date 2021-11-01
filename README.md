@@ -5,7 +5,7 @@ Coursera Course: <a href="https://www.coursera.org/learn/html-css-javascript-for
 
 # ASSIGNMENTS here -
 
-<a href="#week-1">Week-1</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#week-2">Week-2</a>
+<a href="#week-1">Week-1</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#week-2">Week-2</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#week-3">Week-3</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#week-4">Week-4</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#week-5">Week-5</a>
 
 ## Week-1
 > <a href="https://github.com/souvikmajumder26/HTML-CSS-and-JavaScript-for-Web-Developers/tree/main/Week-1#readme" target="_blank">Only Quizz</a>

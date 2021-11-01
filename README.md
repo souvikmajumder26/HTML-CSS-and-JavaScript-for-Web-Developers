@@ -22,7 +22,7 @@ Coursera Course: <a href="https://www.coursera.org/learn/html-css-javascript-for
 
 ## Week-4
 ### Javascript
-![Screenshot (956)](https://user-images.githubusercontent.com/86871718/139623308-b3469d4e-fe7c-4b66-9296-1ee80f4b9256.png)
+![Screenshot (956)](https://user-images.githubusercontent.com/86871718/139623537-5e249931-1daa-440e-baaa-2e66d92f9582.png)
 
 > <a href="https://github.com/souvikmajumder26/HTML-CSS-and-JavaScript-for-Web-Developers/tree/main/Week-4" target="_blank">Peer-graded Coding Assignment</a>
 > 

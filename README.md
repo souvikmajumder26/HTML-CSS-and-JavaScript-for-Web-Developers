@@ -54,7 +54,9 @@ Coursera Course: <a href="https://www.coursera.org/learn/html-css-javascript-for
 > ![Screenshot (975)](https://user-images.githubusercontent.com/86871718/139649743-855e0202-14ed-4bbc-ae55-cd1144acf5ee.png)
 
 > ![image](https://user-images.githubusercontent.com/86871718/139651339-fe081e0d-d652-4f14-bbd4-4dcc6323384a.png)
-![Screenshot (977)](https://user-images.githubusercontent.com/86871718/139651355-bf0b59bc-8286-4653-b28e-93ef93fe7cca.png)
+> ![Screenshot (977)](https://user-images.githubusercontent.com/86871718/139651355-bf0b59bc-8286-4653-b28e-93ef93fe7cca.png)
+> ![image](https://user-images.githubusercontent.com/86871718/139709574-d42e566e-38c9-4ff0-895e-be23c44b69f4.png)
+
 
 
 > <a href="https://github.com/souvikmajumder26/HTML-CSS-and-JavaScript-for-Web-Developers/tree/main/Week-4" target="_blank">Peer-graded Coding Assignment</a>

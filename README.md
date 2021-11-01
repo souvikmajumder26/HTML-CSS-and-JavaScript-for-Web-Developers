@@ -85,11 +85,12 @@ Arrays
 > ![Screenshot (994)](https://user-images.githubusercontent.com/86871718/139750321-752acc06-56b7-4d19-8369-dcfae4527ff1.png)
 > ![Screenshot (995)](https://user-images.githubusercontent.com/86871718/139750332-0b431d0b-eb60-4f85-a1f3-a10974c75b00.png)
 
-Immediately Invoked Function Expression
+Immediately Invoked Function Expression (IIFE)
 > ![Screenshot (996)](https://user-images.githubusercontent.com/86871718/139750401-e7acaa88-5bec-441f-87c2-e572ea250e4e.png)
 > ![Screenshot (997)](https://user-images.githubusercontent.com/86871718/139750413-c0d6ee45-fa7d-4f58-ab5b-e59cf6176adf.png)
 > ![Screenshot (998)](https://user-images.githubusercontent.com/86871718/139750423-124e737c-34c2-43d9-8bc5-d1937d7cbbd7.png)
 > ![Screenshot (999)](https://user-images.githubusercontent.com/86871718/139750432-b86e6637-3c9a-4ab0-83bc-25474025a8cc.png)
+> ![Screenshot (1002)](https://user-images.githubusercontent.com/86871718/139750708-4d264e25-a1d3-48fc-aa30-3a1170082da6.png)
 > ![Screenshot (1000)](https://user-images.githubusercontent.com/86871718/139750444-79810b2b-f845-4578-9bd4-53271ae22bfc.png)
 > ![Screenshot (1001)](https://user-images.githubusercontent.com/86871718/139750453-65a57f71-a482-4922-96fc-3b591cd2ddb0.png)
 

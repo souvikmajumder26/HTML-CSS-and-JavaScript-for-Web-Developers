@@ -47,6 +47,13 @@ Coursera Course: <a href="https://www.coursera.org/learn/html-css-javascript-for
 > ![Screenshot (969)](https://user-images.githubusercontent.com/86871718/139646411-fe17b926-8f73-4818-837b-fbdb94142700.png)
 > ![Screenshot (970)](https://user-images.githubusercontent.com/86871718/139646484-2df7f060-5b8a-4074-a593-baf68e89ed07.png)
 
+> OOP - creating objects with 'new Object()' keyword. There are two operators: dot and []. Dot operator requires the attributes to abide by the JS variable naming rules whereas using [] operator, the attribute names can be anything, eg: attribute names can contain sace in between.
+> ![image](https://user-images.githubusercontent.com/86871718/139649144-2942df40-dbbc-4f2f-a2cf-d3f93468016b.png)
+> ![image](https://user-images.githubusercontent.com/86871718/139649679-411ea75b-700e-4367-bf10-86ea1e6f868a.png)
+> Better way of creating objects: Defining a variable as an Object Literal. It accomplishes pretty much the same thing as defining a variable equal to 'new Object()'. However, it's faster and easier to type up an object literal.
+> ![Screenshot (975)](https://user-images.githubusercontent.com/86871718/139649743-855e0202-14ed-4bbc-ae55-cd1144acf5ee.png)
+
+
 > <a href="https://github.com/souvikmajumder26/HTML-CSS-and-JavaScript-for-Web-Developers/tree/main/Week-4" target="_blank">Peer-graded Coding Assignment</a>
 > 
 > <a href="https://souvikmajumder26.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/Week-4/" target="_blank">Output</a>

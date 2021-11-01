@@ -77,6 +77,22 @@ But when 'this' is used inside a function which is inside/belongs to a function 
 To solve this, we use self = this just at the beginning of the function construct definition, so that 'this' referring to the particular function construct is always stored in 'self' and never changes to global even when 'this' does.
 > ![Screenshot (988)](https://user-images.githubusercontent.com/86871718/139724368-ce9197f0-c3a8-48b5-9e41-949a6e2cec8f.png)
 
+Arrays
+> ![Screenshot (989)](https://user-images.githubusercontent.com/86871718/139750273-3082f490-d232-4852-8b71-930cbbf24661.png)
+> ![Screenshot (991)](https://user-images.githubusercontent.com/86871718/139750296-d8a69dad-97b6-4ec4-868b-31ddbb2893c2.png)
+> ![Screenshot (992)](https://user-images.githubusercontent.com/86871718/139750309-3c59b00d-ac50-4772-ab9e-415df82bddd6.png)
+> ![Screenshot (993)](https://user-images.githubusercontent.com/86871718/139750315-c608768f-0698-4906-b59b-8d0591f14f3c.png)
+> ![Screenshot (994)](https://user-images.githubusercontent.com/86871718/139750321-752acc06-56b7-4d19-8369-dcfae4527ff1.png)
+> ![Screenshot (995)](https://user-images.githubusercontent.com/86871718/139750332-0b431d0b-eb60-4f85-a1f3-a10974c75b00.png)
+
+Immediately Invoked Function Expression
+> ![Screenshot (996)](https://user-images.githubusercontent.com/86871718/139750401-e7acaa88-5bec-441f-87c2-e572ea250e4e.png)
+> ![Screenshot (997)](https://user-images.githubusercontent.com/86871718/139750413-c0d6ee45-fa7d-4f58-ab5b-e59cf6176adf.png)
+> ![Screenshot (998)](https://user-images.githubusercontent.com/86871718/139750423-124e737c-34c2-43d9-8bc5-d1937d7cbbd7.png)
+> ![Screenshot (999)](https://user-images.githubusercontent.com/86871718/139750432-b86e6637-3c9a-4ab0-83bc-25474025a8cc.png)
+> ![Screenshot (1000)](https://user-images.githubusercontent.com/86871718/139750444-79810b2b-f845-4578-9bd4-53271ae22bfc.png)
+> ![Screenshot (1001)](https://user-images.githubusercontent.com/86871718/139750453-65a57f71-a482-4922-96fc-3b591cd2ddb0.png)
+
 
 > <a href="https://github.com/souvikmajumder26/HTML-CSS-and-JavaScript-for-Web-Developers/tree/main/Week-4" target="_blank">Peer-graded Coding Assignment</a>
 > 

@@ -35,6 +35,7 @@ Coursera Course: <a href="https://www.coursera.org/learn/html-css-javascript-for
 
 Variable types are coerced in javascript in case of just Equality.
 > ![image](https://user-images.githubusercontent.com/86871718/139644704-440ef9a7-7d8e-4758-8aac-93528346355a.png)
+
 Variable types are not coerced is case of Strict Equality and thus different var types even with similar value will be unequal.
 > ![image](https://user-images.githubusercontent.com/86871718/139644930-073eb9da-26c0-47a4-bfaa-67a7761e711a.png)
 
@@ -70,7 +71,8 @@ Here, 'this' instead of referring to global, refers to the function construct in
 
 But when 'this' is used inside a function which is inside/belongs to a function construct, that 'this' again refers to global - this may be considered as a bug of JS as this behaviour is unusual and it might have been fixed in newer versions of JS.
 > ![Screenshot (987)](https://user-images.githubusercontent.com/86871718/139724194-6fad3f03-6e30-4513-837c-db8a5d2c23f5.png)
-> To solve this, we use self = this just at the beginning of the function construct definition, so that 'this' referring to the particular function construct is always stored in 'self' and never changes to global even when 'this' does.
+
+To solve this, we use self = this just at the beginning of the function construct definition, so that 'this' referring to the particular function construct is always stored in 'self' and never changes to global even when 'this' does.
 > ![Screenshot (988)](https://user-images.githubusercontent.com/86871718/139724368-ce9197f0-c3a8-48b5-9e41-949a6e2cec8f.png)
 
 

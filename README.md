@@ -32,9 +32,9 @@ Coursera Course: <a href="https://www.coursera.org/learn/html-css-javascript-for
 ![image](https://user-images.githubusercontent.com/86871718/139625262-8096cfa4-b6c1-4f30-ab1d-61424577b0c0.png)
 ![image](https://user-images.githubusercontent.com/86871718/139625481-4c908239-f8a4-4583-af7b-b4ef37e2e340.png)
 ![image](https://user-images.githubusercontent.com/86871718/139626620-b8b4eef1-f91d-4a9c-8c52-237e7144c366.png)
-Variable types are coerced in javascript in case of just Equality.
+> Variable types are coerced in javascript in case of just Equality.
 ![image](https://user-images.githubusercontent.com/86871718/139644704-440ef9a7-7d8e-4758-8aac-93528346355a.png)
-Variable types are no coerced is case of Strict Equality and thus different var types even with similar value will be unequal.
+> Variable types are no coerced is case of Strict Equality and thus different var types even with similar value will be unequal.
 ![image](https://user-images.githubusercontent.com/86871718/139644930-073eb9da-26c0-47a4-bfaa-67a7761e711a.png)
 
 

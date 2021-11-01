@@ -22,11 +22,7 @@ Coursera Course: <a href="https://www.coursera.org/learn/html-css-javascript-for
 
 ## Week-4
 ### Javascript
-<p float="left">
-  ![Screenshot (956)](https://user-images.githubusercontent.com/86871718/139623537-5e249931-1daa-440e-baaa-2e66d92f9582.png)
-  ![Screenshot (959)](https://user-images.githubusercontent.com/86871718/139624983-92bc251d-a9bf-4434-90bd-d042f787295e.png)
-  ![Screenshot (960)](https://user-images.githubusercontent.com/86871718/139624988-67ff8423-767a-40c4-af6c-cb017aa14ca2.png)
-</p>
+![Screenshot (956)](https://user-images.githubusercontent.com/86871718/139623537-5e249931-1daa-440e-baaa-2e66d92f9582.png) ![Screenshot (959)](https://user-images.githubusercontent.com/86871718/139624983-92bc251d-a9bf-4434-90bd-d042f787295e.png) ![Screenshot (960)](https://user-images.githubusercontent.com/86871718/139624988-67ff8423-767a-40c4-af6c-cb017aa14ca2.png)
 ![Screenshot (961)](https://user-images.githubusercontent.com/86871718/139624994-f7005f9d-3022-4cb6-a800-272ebe11aa19.png)
 ![Screenshot (962)](https://user-images.githubusercontent.com/86871718/139624950-790f08af-d142-4101-bad8-3e629533faa6.png)
 ![Screenshot (948)](https://user-images.githubusercontent.com/86871718/139626758-f90e93b1-b0ec-4357-9ef2-9e3fc91fe300.png)

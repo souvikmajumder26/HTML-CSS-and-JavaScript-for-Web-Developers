@@ -38,6 +38,15 @@ Coursera Course: <a href="https://www.coursera.org/learn/html-css-javascript-for
 > Variable types are not coerced is case of Strict Equality and thus different var types even with similar value will be unequal.
 > ![image](https://user-images.githubusercontent.com/86871718/139644930-073eb9da-26c0-47a4-bfaa-67a7761e711a.png)
 
+> ![image](https://user-images.githubusercontent.com/86871718/139646096-a8a4bf8f-fd17-4450-ba09-0288641ec76c.png)
+> ![image](https://user-images.githubusercontent.com/86871718/139646133-c69e21f8-4a71-4a2c-8783-85f924bb4b71.png)
+
+> For Loop
+> ![Screenshot (968)](https://user-images.githubusercontent.com/86871718/139646379-a96bbb71-d79c-4ea7-95dc-1b9845e06687.png)
+
+> ![Screenshot (969)](https://user-images.githubusercontent.com/86871718/139646411-fe17b926-8f73-4818-837b-fbdb94142700.png)
+> ![Screenshot (970)](https://user-images.githubusercontent.com/86871718/139646484-2df7f060-5b8a-4074-a593-baf68e89ed07.png)
+
 > <a href="https://github.com/souvikmajumder26/HTML-CSS-and-JavaScript-for-Web-Developers/tree/main/Week-4" target="_blank">Peer-graded Coding Assignment</a>
 > 
 > <a href="https://souvikmajumder26.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/Week-4/" target="_blank">Output</a>

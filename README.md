@@ -101,3 +101,6 @@ Immediately Invoked Function Expression (IIFE)
 
 ## Week-5
 
+> <a href="https://github.com/souvikmajumder26/HTML-CSS-and-JavaScript-for-Web-Developers/tree/main/Week-5" target="_blank">Peer-graded Coding Assignment</a>
+> 
+> <a href="https://souvikmajumder26.github.io/HTML-CSS-and-JavaScript-for-Web-Developers/Week-5/" target="_blank">Output</a>
